@@ -1,11 +1,11 @@
-Questions/comments/suggestions? Reach me via Twitter @cxteam_lim
+Questions/comments/suggestions? Reach me via Twitter @cxteam_lim <br>
 
-Refer to https://ncovtracker.doh.gov.ph for official DOH announcements.<br>
+Official DOH announcements/updates are at https://ncovtracker.doh.gov.ph<br>
 
-### Important: README file for the dataset @ https://bit.ly/DataDropPH
+### Important: The dataset used here is part of the 'DOH Data Drop'. A full description and the download link is contained in the README file at https://bit.ly/DataDropPH
 
-#### Snippet regarding the dataset used here
-##### Health Facility Capacity from the DOH Data Collect
+#### Snippet from the Data Drop README file regarding the dataset that is used by this repo
+> Health Facility Capacity from the DOH Data Collect <br>
 > Health facility data as of 8:00 AM is encoded and submitted daily, for bed occupancy and
 > mechanical ventilator utilization as intended for Covid-19 cases, and weekly, for select
 > logistics inventory, by hospitals and infirmaries through the DOH DataCollect BedTracker
@@ -21,11 +21,11 @@ Refer to https://ncovtracker.doh.gov.ph for official DOH announcements.<br>
 > every 4pm of the current day.
 
 ### Very important: Please contact the ONE HOSPITAL COMMAND CENTER if you are looking for a hospital room / healthcare referral.
-The agents at the ONE HOSPITAL COMMAND have access to more recent data. Reach them through the ff. numbers:
+The agents at the ONE HOSPITAL COMMAND CENTER have access to more recent data. Reach them through the ff. numbers:
 (02) 8865-0500, 0915-777-7777 and 0919-977-3333. Source:
 https://doh.gov.ph/press-release/ONE-HOSPITAL-COMMAND-CENTER-REPORTS-90-percent-SUCCESS-RATE <br><br>
 DOH COVID-19 toll-free hotline number: 1555 
 
 As mentioned in the 30 March 2021 House hearing https://www.youtube.com/watch?v=BOZ25Ed0A78 (start at around the 2hr mark), 
-other factors considered in determining a hospital's capacity to accept more patients are the availability of healthcare workers, 
-supplies (incl. medicines, O2, ...), etc.
+there are other factors that influence a hospital's capacity to accept more patients: availability of healthcare workers, 
+supplies (medicines, O2, ...), etc. 
