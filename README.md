@@ -25,3 +25,7 @@ The agents at the ONE HOSPITAL COMMAND have access to more recent data. Reach th
 (02) 8865-0500, 0915-777-7777 and 0919-977-3333. Source:
 https://doh.gov.ph/press-release/ONE-HOSPITAL-COMMAND-CENTER-REPORTS-90-percent-SUCCESS-RATE <br><br>
 DOH COVID-19 toll-free hotline number: 1555 
+
+As mentioned in the 30 March 2021 House hearing https://www.youtube.com/watch?v=BOZ25Ed0A78 (start at around the 2hr mark), 
+other factors considered in determining a hospital's capacity to accept more patients are the availability of healthcare workers, 
+supplies (incl. medicines, O2, ...), etc.
