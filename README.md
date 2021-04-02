@@ -20,3 +20,8 @@ Refer to https://ncovtracker.doh.gov.ph for official DOH announcements.<br>
 > infirmaries. Summary estimates are released on DOH Facebook and BeatCovid Situationer
 > every 4pm of the current day.
 
+### Very important: Please contact the ONE HOSPITAL COMMAND CENTER if you are looking for a hospital room / healthcare referral.
+The agents at the ONE HOSPITAL COMMAND have access to more recent data. Reach them through the ff. numbers:
+(02) 8865-0500, 0915-777-7777 and 0919-977-3333. Source:
+https://doh.gov.ph/press-release/ONE-HOSPITAL-COMMAND-CENTER-REPORTS-90-percent-SUCCESS-RATE <br><br>
+DOH COVID-19 toll-free hotline number: 1555 
