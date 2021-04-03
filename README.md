@@ -32,4 +32,4 @@ supplies (medicines, O2, ...), etc.
 
 [Hospital vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies.ipynb) in NCR for the 3 days prior to DOH data reporting. Legend: _v = vacant, _o = occupied, icu = intensive care unit, isolbed = isolation, beds_ward = beds in a converted ward (for confirmed cases only), mechvent = mechanical ventilator. These values are specific for COVID-19 cases. 
 
-[Hospital (non-covid) vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies-noncovid.ipynb) - The beds allocated the non-COVID patients are tagged with _nc), e.g. icu_v_nc means vacant ICU bed for non-COVID patients.
+[Hospital (non-covid) vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies_noncovid.ipynb) - The beds allocated the non-COVID patients are tagged with _nc), e.g. icu_v_nc means vacant ICU bed for non-COVID patients.
