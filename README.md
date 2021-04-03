@@ -30,6 +30,6 @@ As mentioned in the 30 March 2021 House hearing https://www.youtube.com/watch?v=
 there are other factors that influence a hospital's capacity to accept more patients: availability of healthcare workers, 
 supplies (medicines, O2, ...), etc. 
 
-[Hospital vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies.ipynb) in NCR for the 3 days prior to DOH data reporting. Legend: _v = vacant, _o = occupied, icu = intensive care unit, isolbed = isolation, beds_ward = beds in a converted ward (for confirmed cases only), mechvent = mechanical ventilator. These values are specific for COVID-19 cases. 
+[Hospital vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies.ipynb) in NCR for the 3 days prior to DOH data reporting. Legend: _v = vacant, _o = occupied, icu = intensive care unit, isolbed = isolation, beds_ward = beds in a converted ward (for confirmed cases only), mechvent = mechanical ventilator. These values are specific for COVID-19 cases. Showing only entries that have non-zero values for both occupied and vacant ICU beds.
 
-[Hospital (non-covid) vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies_noncovid.ipynb) - The beds allocated the non-COVID patients are tagged with _nc), e.g. icu_v_nc means vacant ICU bed for non-COVID patients.
+[Hospital (non-covid) vacancies extracted from the 'DOH Data Drop'](https://github.com/maytlim/doh_data/blob/main/vacancies_noncovid.ipynb) - The beds allocated the non-COVID patients are tagged with _nc), e.g. icu_v_nc means vacant ICU bed for non-COVID patients. Showing only entries that have non-zero values for both occupied and vacant ICU beds.
