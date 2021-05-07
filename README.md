@@ -20,11 +20,10 @@ Official DOH announcements/updates are at https://ncovtracker.doh.gov.ph<br>
 > infirmaries. Summary estimates are released on DOH Facebook and BeatCovid Situationer
 > every 4pm of the current day.
 
+All Jupyter notebook files have an ![alt text](https://colab.research.google.com/assets/colab-badge.svg "Open in Colab") button. Clicking on this button would allow one to run the code in Google Colab (and consequently download the latest files from the DOH Data Drop). 
+
 ### Very important: Please contact the ONE HOSPITAL COMMAND CENTER if you are looking for a hospital room / healthcare referral.
-The agents at the ONE HOSPITAL COMMAND CENTER have access to more recent data. Reach them through the ff. numbers:
-(02) 8865-0500, 0915-777-7777 and 0919-977-3333. Source:
-https://doh.gov.ph/press-release/ONE-HOSPITAL-COMMAND-CENTER-REPORTS-90-percent-SUCCESS-RATE <br><br>
-DOH COVID-19 toll-free hotline number: 1555 
+The agents at the ONE HOSPITAL COMMAND CENTER have access to more recent data. Reach them through 1555.
 
 As mentioned in the 30 March 2021 House hearing https://www.youtube.com/watch?v=BOZ25Ed0A78 (start at around the 2hr mark), 
 there are other factors that influence a hospital's capacity to accept more patients: availability of healthcare workers, 
